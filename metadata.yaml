@@ -1,0 +1,36 @@
+_repo: You-ll-git-dar-in-de-mornin-_19394
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Stanton, Frank Lebby
+    alias: Stanton, F. L. (Frank Lebby)
+    birthdate: 1857
+    deathdate: 1927
+    gutenberg_agent_id: '8644'
+    url: http://www.gutenberg.org/2009/agents/8644
+  - agent_name: Burleigh, H. T. (Harry Thacker)
+    aliases:
+    - Burleigh, Henry Thacker
+    - Burleigh, Harry Thacker
+    birthdate: 1866
+    deathdate: 1949
+    gutenberg_agent_id: '7345'
+    url: http://www.gutenberg.org/2009/agents/7345
+    wikipedia: http://en.wikipedia.org/wiki/Harry_Burleigh
+description: ''
+gutenberg_issued: '2006-09-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19394'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'M'
+- !lcsh 'African Americans -- Songs and music'
+title: You'll git dar in de mornin'
+url: http://www.gutenberg.org/ebooks/19394
