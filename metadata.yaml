@@ -21,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7345
     wikipedia: http://en.wikipedia.org/wiki/Harry_Burleigh
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19394#You-ll-git-dar-in-de-mornin-
 gutenberg_issued: '2006-09-27'
 gutenberg_type: Text
 identifiers:
